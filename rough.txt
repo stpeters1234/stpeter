@@ -1,0 +1,57 @@
+<div class="all-projects">
+        <div class="project-item">
+          <!-- project 1 -->
+          <div class="project-info">
+            <h1>Library</h1>
+            <img src="1.jpg" alt="img">
+          </div>
+          <div class="project-img">
+            <img src="2.jpg" alt="img">
+          </div>
+        </div>
+                <button onclick="showImage()">Show Image</button>
+
+        
+         <!-- project 2 -->
+          <div class="project-item">
+          <div class="project-info">
+            <h1>Lab</h1>
+            <img src="lab1.jpg" alt="img">
+          </div>
+          <div class="project-img">
+            <img src="lab2.jpg" alt="img">
+          </div>
+        </div>
+        <!-- project 3 -->
+        <div class="project-item">
+          <div class="project-info">
+            <h1>Class Rooms</h1>
+              <img src="class1.jpg" alt="img">
+          </div>
+          <div class="project-img">
+            <img src="class2.jpg" alt="img">
+          </div>
+        </div>
+        <!-- project 4 -->
+        <div class="project-item">
+          <div class="project-info">
+            <h1>Principal Room</h1>
+            <img src="principalrm.jpg" alt="img">
+          </div>
+          <div class="project-img">
+            <img src="ground.jpg" alt="img">
+          </div>
+        </div>
+        <!-- project 5 -->
+        <div class="project-item">
+          <div class="project-info">
+            <h1>College</h1>
+            <img src="clg1.jpg" alt="img">
+          </div>
+          <div class="project-img">
+            <img src="clg2.jpg" alt="img">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
